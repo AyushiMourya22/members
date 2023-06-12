@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/members/static/css/main.4a208334.css",
+    "main.js": "/members/static/js/main.2c20bbfb.js",
+    "static/media/Tribikram_Pradhan.jpg": "/members/static/media/Tribikram_Pradhan.c6e5f7279c26f6a31ef2.jpg",
+    "index.html": "/members/index.html",
+    "main.4a208334.css.map": "/members/static/css/main.4a208334.css.map",
+    "main.2c20bbfb.js.map": "/members/static/js/main.2c20bbfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a208334.css",
+    "static/js/main.2c20bbfb.js"
+  ]
+}
